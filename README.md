@@ -1,2 +1,1 @@
-# My website, sorta
-Dunno what you expected really.
+I really wanted to add a custom soundtrack to Sonic 4.
